@@ -1,6 +1,6 @@
 <h1 align="center">ꪶ 4K SANZZ ꫂ<br></h1>
 <p align="center">
-<img src="https://tenor.com/id/view/gif-27117515)](https://media1.tenor.com/images/719a1a5f947c1f4138e7a9127519e5f9/tenor.gif?itemid=27117515" alt="animated" width="540" height="280" />
+<img src="https://tenor.com/id/view/gif-27117515" />
 </p>
 
 <p align="center">
