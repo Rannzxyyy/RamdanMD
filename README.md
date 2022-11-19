@@ -1,6 +1,6 @@
 <h1 align="center">ꪶ 4K SANZZ ꫂ<br></h1>
 <p align="center">
-<img src="[(https://drive.google.com/file/d/1Guj8eSPPseEUl_wLkMZuiqRyMJA_qwRg/view?usp=drivesdk)](https://media1.tenor.com/images/719a1a5f947c1f4138e7a9127519e5f9/tenor.gif?itemid=27117515)" alt="animated" width="540" height="280" />
+<img src="(https://drive.google.com/file/d/1Guj8eSPPseEUl_wLkMZuiqRyMJA_qwRg/view?usp=drivesdk)](https://media1.tenor.com/images/719a1a5f947c1f4138e7a9127519e5f9/tenor.gif?itemid=27117515)" alt="animated" width="540" height="280" />
 </p>
 
 <p align="center">
@@ -31,9 +31,9 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/916909137213"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://wa.me/6281236167286"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/HHbTWShvfQO4Kep09NGUFr"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/channel/4KSanzz"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 ## ```Donate Me```
