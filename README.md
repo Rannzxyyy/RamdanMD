@@ -31,9 +31,9 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/6281236167286"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/6281236167286"><img src="https://img.shields.io/badge/Contact Sanzz-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://chat.whatsapp.com/HHbTWShvfQO4Kep09NGUFr"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/channel/4KSanzz"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
+<a href="https://youtube.com/channel/4KSanzz"><img src="https://img.shields.io/badge/Subscribe 4K Sanzz-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
 ## ```Donate Me```
